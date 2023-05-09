@@ -1,2 +1,1 @@
-hello git!
-git 3번째 커밋!
+this is first commit
